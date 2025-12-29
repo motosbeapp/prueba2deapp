@@ -1,0 +1,7 @@
+{
+  "name": "BELMOTOS-TALLER - Sistema de Gestión de Taller",
+  "description": "Una aplicación integral para talleres de motocicletas que incluye recepción de vehículos, gestión de inventarios físicos, panel de control estadístico y generación de reportes detallados en PDF.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
